@@ -20,4 +20,9 @@ https://www.xjtlu.edu.cn/en/study/surf
     - for around two months: our team have tried attacking on 'HuBMAP + HPA - Hacking the Human Body'
     - https://www.kaggle.com/competitions/hubmap-organ-segmentation
     - as final work, we obtained 0.80 for private, and achieved silver medal
+### 3. Notebooks
+    - in this folder, there are only 3 notebooks that I worked on with the 'HuBMAP + HPA - Hacking the Human Body'
+    - did not notice to upload things on github, and deleted most of the useless notebooks in Kaggle
 
+## Total Work Report
+In order to prove and for more help on the total work progress, I have attached my work report documented during SURF
