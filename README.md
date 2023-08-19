@@ -1,5 +1,5 @@
 # Summer-Undergraduate-Research-Fellowship
-Summer Undergraduate Research Fellowship (SURF), Kaggle Competition 'HuBMAP + HPA - Hacking the Kidney' Silver Medal in Private
+Summer Undergraduate Research Fellowship (SURF), Kaggle Competition 'HuBMAP + HPA - Hacking the Human Body' Silver Medal in Private
 
 ## XTJLU SURF
 https://www.xjtlu.edu.cn/en/study/surf
