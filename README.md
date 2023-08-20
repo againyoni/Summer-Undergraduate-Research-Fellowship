@@ -12,7 +12,7 @@ https://www.xjtlu.edu.cn/en/study/surf
 
 ## Progress Work Presentations
 - contains weekly report presentation on the progress that each team have made during SURF
-### 1. UM-Madison GI Track Image Segmentation
+### 1. UW-Madison GI Track Image Segmentation
     - in the first 10 days: our all SURF team have tried attacking on 'UW-Madison GI Tract Image Segmentation'
       But this is only done for 10 days, making not much successful progress
     - https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation
